@@ -1,1 +1,59 @@
-
+{
+  "format_version": 2,
+  "header": {
+    "name": "Higher Enchantment Levels",
+    "description": "Enables enchantment levels up to 3,000,000 for all enchantments.",
+    "uuid": "8e5c84cc-8a2e-4db2-a3b1-0d7fae1e4142",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "d107fbd1-3132-4f3f-9023-6c1bb8b8b0f5",
+      "version": [1, 0, 0]
+    }
+  ],
+  "enchantments": [
+    "aquaaffinity",
+    "baneofarthropods",
+    "binding",
+    "blastprotection",
+    "channeling",
+    "depthstrider",
+    "efficiency",
+    "featherfalling",
+    "fireaspect",
+    "fireprotection",
+    "flame",
+    "fortune",
+    "frostwalker",
+    "impaling",
+    "infinity",
+    "knockback",
+    "looting",
+    "loyalty",
+    "luckofthesea",
+    "lure",
+    "mending",
+    "multishot",
+    "piercing",
+    "power",
+    "projectileprotection",
+    "protection",
+    "punch",
+    "quickcharge",
+    "respiration",
+    "riptide",
+    "sharpness",
+    "silktouch",
+    "smite",
+    "soulspeed",
+    "swiftsneak",
+    "thorns",
+    "unbreaking",
+    "vanishing",
+    "curseofbinding",
+    "curseofvanishing"
+  ]
+}
