@@ -1,0 +1,230 @@
+{
+  "format_version": "1.10",
+  "minecraft:enchantment": [
+    {
+      "description": {
+        "name": "sharpness",
+        "id": "sharpness"
+      },
+      "maximum_level": 3000000,
+      "weight": 10,
+      "type": "weapon"
+    },
+    {
+      "description": {
+        "name": "bane_of_arthropods",
+        "id": "bane_of_arthropods"
+      },
+      "maximum_level": 3000000,
+      "weight": 5,
+      "type": "weapon"
+    },
+    {
+      "description": {
+        "name": "blast_protection",
+        "id": "blast_protection"
+      },
+      "maximum_level": 3000000,
+      "weight": 7,
+      "type": "armor"
+    },
+    {
+      "description": {
+        "name": "channeling",
+        "id": "channeling"
+      },
+      "maximum_level": 3000000,
+      "weight": 2,
+      "type": "weapon"
+    },
+    {
+      "description": {
+        "name": "depth_strider",
+        "id": "depth_strider"
+      },
+      "maximum_level": 3000000,
+      "weight": 3,
+      "type": "armor"
+    },
+    {
+      "description": {
+        "name": "feather_falling",
+        "id": "feather_falling"
+      },
+      "maximum_level": 3000000,
+      "weight": 4,
+      "type": "armor"
+    },
+    {
+      "description": {
+        "name": "fire_aspect",
+        "id": "fire_aspect"
+      },
+      "maximum_level": 3000000,
+      "weight": 5,
+      "type": "weapon"
+    },
+    {
+      "description": {
+        "name": "fire_protection",
+        "id": "fire_protection"
+      },
+      "maximum_level": 3000000,
+      "weight": 5,
+      "type": "armor"
+    },
+    {
+      "description": {
+        "name": "flame",
+        "id": "flame"
+      },
+      "maximum_level": 3000000,
+      "weight": 5,
+      "type": "weapon"
+    },
+    {
+      "description": {
+        "name": "fortune",
+        "id": "fortune"
+      },
+      "maximum_level": 3000000,
+      "weight": 5,
+      "type": "tool"
+    },
+    {
+      "description": {
+        "name": "frost_walker",
+        "id": "frost_walker"
+      },
+      "maximum_level": 3000000,
+      "weight": 5,
+      "type": "armor"
+    },
+    {
+      "description": {
+        "name": "impaling",
+        "id": "impaling"
+      },
+      "maximum_level": 3000000,
+      "weight": 5,
+      "type": "weapon"
+    },
+    {
+      "description": {
+        "name": "knockback",
+        "id": "knockback"
+      },
+      "maximum_level": 3000000,
+      "weight": 3,
+      "type": "weapon"
+    },
+    {
+      "description": {
+        "name": "looting",
+        "id": "looting"
+      },
+      "maximum_level": 3000000,
+      "weight": 4,
+      "type": "weapon"
+    },
+    {
+      "description": {
+        "name": "luck_of_the_sea",
+        "id": "luck_of_the_sea"
+      },
+      "maximum_level": 3000000,
+      "weight": 5,
+      "type": "weapon"
+    },
+    {
+      "description": {
+        "name": "mending",
+        "id": "mending"
+      },
+      "maximum_level": 3000000,
+      "weight": 1,
+      "type": "armor"
+    },
+    {
+      "description": {
+        "name": "power",
+        "id": "power"
+      },
+      "maximum_level": 3000000,
+      "weight": 10,
+      "type": "weapon"
+    },
+    {
+      "description": {
+        "name": "projectile_protection",
+        "id": "projectile_protection"
+      },
+      "maximum_level": 3000000,
+      "weight": 3,
+      "type": "armor"
+    },
+    {
+      "description": {
+        "name": "punch",
+        "id": "punch"
+      },
+      "maximum_level": 3000000,
+      "weight": 5,
+      "type": "weapon"
+    },
+    {
+      "description": {
+        "name": "respiration",
+        "id": "respiration"
+      },
+      "maximum_level": 3000000,
+      "weight": 3,
+      "type": "armor"
+    },
+    {
+      "description": {
+        "name": "silk_touch",
+        "id": "silk_touch"
+      },
+      "maximum_level": 3000000,
+      "weight": 5,
+      "type": "tool"
+    },
+    {
+      "description": {
+        "name": "smite",
+        "id": "smite"
+      },
+      "maximum_level": 3000000,
+      "weight": 10,
+      "type": "weapon"
+    },
+    {
+      "description": {
+        "name": "soul_speed",
+        "id": "soul_speed"
+      },
+      "maximum_level": 3000000,
+      "weight": 2,
+      "type": "armor"
+    },
+    {
+      "description": {
+        "name": "swift_sneak",
+        "id": "swift_sneak"
+      },
+      "maximum_level": 3000000,
+      "weight": 1,
+      "type": "armor"
+    },
+    {
+      "description": {
+        "name": "unbreaking",
+        "id": "unbreaking"
+      },
+      "maximum_level": 3000000,
+      "weight": 10,
+      "type": "armor"
+    }
+  ]
+}
